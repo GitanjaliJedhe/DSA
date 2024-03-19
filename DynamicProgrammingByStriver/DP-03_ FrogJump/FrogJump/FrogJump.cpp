@@ -23,3 +23,8 @@ int main() {
 	std::cout << prev << std::endl;
 	return 0;
 }
+
+/*
+Output:
+40
+*/
