@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/DynamicProgrammingByStriver/DP-01_FibonacciSeries/FibonacciSeries/.vs/FibonacciSeries/v17
+/DynamicProgrammingByStriver/DP-01_FibonacciSeries/FibonacciSeries/x64/Release
+*.sln
+*.vcxproj
+*.filters
+*.user
