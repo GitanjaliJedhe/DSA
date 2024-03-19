@@ -36,3 +36,5 @@
 *.vcxproj
 *.filters
 *.user
+/DynamicProgrammingByStriver/DP-03_ FrogJump/FrogJump/.vs/FrogJump/v17
+/DynamicProgrammingByStriver/DP-03_ FrogJump/FrogJump/x64/Release
